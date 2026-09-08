@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PHPdot\Mail\Tests\Integration;
+namespace PHPdot\Mail\Tests\Unit;
 
 use PHPdot\Mail\MailConfig;
 use PHPdot\Mail\Message\Message;
